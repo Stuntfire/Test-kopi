@@ -13,19 +13,6 @@ namespace Test
 
         }
 
-        public int MyProperty
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-
-            set
-            {
-                throw new NotImplementedException();
-            }
-        }
-
         public int CalculateSalary()
         {
             throw new NotImplementedException();

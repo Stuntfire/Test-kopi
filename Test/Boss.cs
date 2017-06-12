@@ -10,7 +10,7 @@ namespace Test
     {
         public Boss(int hours, int salary)
         {
-
+            //drhdrthrftdh
         }
 
         public int CalculateSalary()
